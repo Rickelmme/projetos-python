@@ -1,2 +1,1 @@
-# projetos-python
-Aprendendo python
+# Meus projetos em Python
